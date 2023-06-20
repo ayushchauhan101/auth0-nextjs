@@ -1,0 +1,1 @@
+## Creating a basic auth0 login & logout enabled Next.js App
